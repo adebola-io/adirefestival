@@ -1,0 +1,9 @@
+[project]
+name = "abiade-font-build"
+version = "0.1.0"
+description = "Repeatable Abiade SVG-to-font build pipeline."
+requires-python = ">=3.11"
+dependencies = [
+  "fonttools[woff]>=4.63.0",
+  "pillow>=12.2.0",
+]

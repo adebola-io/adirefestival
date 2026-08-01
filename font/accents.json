@@ -1,0 +1,15 @@
+{
+  "marks": {
+    "acute": "marks/acute.svg"
+  },
+  "anchors": {
+    "A": { "acute": { "x": 330, "y": 735 } },
+    "E": { "acute": { "x": 315, "y": 735 } },
+    "I": { "acute": { "x": 106, "y": 735 } }
+  },
+  "composites": {
+    "Á": { "base": "A", "mark": "acute", "glyphName": "Aacute" },
+    "É": { "base": "E", "mark": "acute", "glyphName": "Eacute" },
+    "Í": { "base": "I", "mark": "acute", "glyphName": "Iacute" }
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "font": {
+    "familyName": "Abiade",
+    "styleName": "Regular",
+    "unitsPerEm": 1000,
+    "capHeight": 700,
+    "ascender": 895,
+    "descender": -20,
+    "lineGap": 0,
+    "sideBearing": 45,
+    "spaceWidth": 300
+  },
+  "glyphs": {
+    "A": {
+      "source": "Abiade/Property 1=A.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "B": {
+      "source": "Abiade/Property 1=B.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "C": {
+      "source": "Abiade/Property 1=C.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "D": {
+      "source": "Abiade/Property 1=D.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        91.0,
+        111.0
+      ],
+      "fillRule": "evenodd",
+      "scale": 6.306306306306307,
+      "bounds": [
+        45,
+        28,
+        619,
+        672
+      ],
+      "advanceWidth": 664,
+      "defaultAdvanceWidth": 664,
+      "leftSideBearing": 45,
+      "rightSideBearing": 45,
+      "metricOverride": null
+    },
+    "E": {
+      "source": "Abiade/Property 1=E.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "F": {
+      "source": "Abiade/Property 1=F.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 523,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": -25,
+      "metricOverride": {
+        "leftSideBearing": 45,
+        "rightSideBearing": -25
+      }
+    },
+    "G": {
+      "source": "Abiade/Property 1=G.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        549,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 47,
+      "metricOverride": null
+    },
+    "H": {
+      "source": "Abiade/Property 1=H.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "I": {
+      "source": "Abiade/Property 1=I.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        88.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        3,
+        169,
+        697
+      ],
+      "advanceWidth": 214,
+      "defaultAdvanceWidth": 640,
+      "leftSideBearing": 45,
+      "rightSideBearing": 45,
+      "metricOverride": {
+        "leftSideBearing": 45,
+        "rightSideBearing": 45
+      }
+    },
+    "J": {
+      "source": "Abiade/Property 1=J.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        549,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 47,
+      "metricOverride": null
+    },
+    "K": {
+      "source": "Abiade/Property 1=K.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "L": {
+      "source": "Abiade/Property 1=L.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "M": {
+      "source": "Abiade/Property 1=M.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "N": {
+      "source": "Abiade/Property 1=N.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "O": {
+      "source": "Abiade/Property 1=O.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "P": {
+      "source": "Abiade/Property 1=P.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "Q": {
+      "source": "Abiade/Property 1=Q.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "R": {
+      "source": "Abiade/Property 1=R.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "S": {
+      "source": "Abiade/Property 1=S.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "T": {
+      "source": "Abiade/Property 1=T.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "U": {
+      "source": "Abiade/Property 1=U.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "V": {
+      "source": "Abiade/Property 1=V.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "W": {
+      "source": "Abiade/Property 1=W.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "X": {
+      "source": "Abiade/Property 1=X.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "Y": {
+      "source": "Abiade/Property 1=Y.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        4,
+        548,
+        700
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    },
+    "Z": {
+      "source": "Abiade/Property 1=Z.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        81.0,
+        112.0
+      ],
+      "fillRule": "nonzero",
+      "scale": 6.25,
+      "bounds": [
+        45,
+        2,
+        548,
+        698
+      ],
+      "advanceWidth": 596,
+      "defaultAdvanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48,
+      "metricOverride": null
+    }
+  },
+  "aliases": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E",
+    "f": "F",
+    "g": "G",
+    "h": "H",
+    "i": "I",
+    "j": "J",
+    "k": "K",
+    "l": "L",
+    "m": "M",
+    "n": "N",
+    "o": "O",
+    "p": "P",
+    "q": "Q",
+    "r": "R",
+    "s": "S",
+    "t": "T",
+    "u": "U",
+    "v": "V",
+    "w": "W",
+    "x": "X",
+    "y": "Y",
+    "z": "Z"
+  },
+  "marks": {
+    "acute": {
+      "source": "marks/acute.svg",
+      "viewBox": [
+        0.0,
+        0.0,
+        32.0,
+        26.0
+      ],
+      "height": 150
+    }
+  },
+  "composites": {
+    "Á": {
+      "glyphName": "Aacute",
+      "base": "A",
+      "mark": "acute",
+      "anchor": {
+        "x": 330,
+        "y": 735
+      },
+      "bounds": [
+        45,
+        4,
+        548,
+        885
+      ],
+      "advanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48
+    },
+    "É": {
+      "glyphName": "Eacute",
+      "base": "E",
+      "mark": "acute",
+      "anchor": {
+        "x": 315,
+        "y": 735
+      },
+      "bounds": [
+        45,
+        4,
+        548,
+        885
+      ],
+      "advanceWidth": 596,
+      "leftSideBearing": 45,
+      "rightSideBearing": 48
+    },
+    "Í": {
+      "glyphName": "Iacute",
+      "base": "I",
+      "mark": "acute",
+      "anchor": {
+        "x": 106,
+        "y": 735
+      },
+      "bounds": [
+        14,
+        3,
+        198,
+        885
+      ],
+      "advanceWidth": 214,
+      "leftSideBearing": 14,
+      "rightSideBearing": 16
+    }
+  },
+  "kerning": {
+    "AB": {
+      "left": "A",
+      "right": "B",
+      "value": 10
+    },
+    "BI": {
+      "left": "B",
+      "right": "I",
+      "value": -45
+    },
+    "IJ": {
+      "left": "I",
+      "right": "J",
+      "value": -25
+    },
+    "IA": {
+      "left": "I",
+      "right": "A",
+      "value": -55
+    },
+    "AD": {
+      "left": "A",
+      "right": "D",
+      "value": -25
+    },
+    "DE": {
+      "left": "D",
+      "right": "E",
+      "value": -15
+    },
+    "BÍ": {
+      "left": "B",
+      "right": "Iacute",
+      "value": -45
+    },
+    "ÍÁ": {
+      "left": "Iacute",
+      "right": "Aacute",
+      "value": -55
+    },
+    "ÁD": {
+      "left": "Aacute",
+      "right": "D",
+      "value": -25
+    },
+    "DÉ": {
+      "left": "D",
+      "right": "Eacute",
+      "value": -15
+    },
+    "AV": {
+      "left": "A",
+      "right": "V",
+      "value": -80
+    },
+    "AW": {
+      "left": "A",
+      "right": "W",
+      "value": -60
+    },
+    "AY": {
+      "left": "A",
+      "right": "Y",
+      "value": -70
+    },
+    "AT": {
+      "left": "A",
+      "right": "T",
+      "value": -45
+    },
+    "VA": {
+      "left": "V",
+      "right": "A",
+      "value": -70
+    },
+    "WA": {
+      "left": "W",
+      "right": "A",
+      "value": -60
+    },
+    "YA": {
+      "left": "Y",
+      "right": "A",
+      "value": -70
+    },
+    "TA": {
+      "left": "T",
+      "right": "A",
+      "value": -55
+    },
+    "FA": {
+      "left": "F",
+      "right": "A",
+      "value": -35
+    },
+    "FG": {
+      "left": "F",
+      "right": "G",
+      "value": -80
+    },
+    "PA": {
+      "left": "P",
+      "right": "A",
+      "value": -35
+    },
+    "RA": {
+      "left": "R",
+      "right": "A",
+      "value": -30
+    },
+    "LT": {
+      "left": "L",
+      "right": "T",
+      "value": -40
+    },
+    "LY": {
+      "left": "L",
+      "right": "Y",
+      "value": -45
+    },
+    "LV": {
+      "left": "L",
+      "right": "V",
+      "value": -40
+    }
+  },
+  "verification": {
+    "ttf": {
+      "size": 4356,
+      "tables": [
+        "GPOS",
+        "GlyphOrder",
+        "OS/2",
+        "cmap",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post"
+      ],
+      "glyphCount": 31
+    },
+    "woff2": {
+      "size": 2480,
+      "tables": [
+        "GPOS",
+        "GlyphOrder",
+        "OS/2",
+        "cmap",
+        "glyf",
+        "head",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "name",
+        "post"
+      ],
+      "glyphCount": 31
+    }
+  }
+}

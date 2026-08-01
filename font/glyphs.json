@@ -1,0 +1,68 @@
+{
+  "glyphs": {
+    "A": "Abiade/Property 1=A.svg",
+    "B": "Abiade/Property 1=B.svg",
+    "C": "Abiade/Property 1=C.svg",
+    "D": "Abiade/Property 1=D.svg",
+    "E": "Abiade/Property 1=E.svg",
+    "F": "Abiade/Property 1=F.svg",
+    "G": "Abiade/Property 1=G.svg",
+    "H": "Abiade/Property 1=H.svg",
+    "I": "Abiade/Property 1=I.svg",
+    "J": "Abiade/Property 1=J.svg",
+    "K": "Abiade/Property 1=K.svg",
+    "L": "Abiade/Property 1=L.svg",
+    "M": "Abiade/Property 1=M.svg",
+    "N": "Abiade/Property 1=N.svg",
+    "O": "Abiade/Property 1=O.svg",
+    "P": "Abiade/Property 1=P.svg",
+    "Q": "Abiade/Property 1=Q.svg",
+    "R": "Abiade/Property 1=R.svg",
+    "S": "Abiade/Property 1=S.svg",
+    "T": "Abiade/Property 1=T.svg",
+    "U": "Abiade/Property 1=U.svg",
+    "V": "Abiade/Property 1=V.svg",
+    "W": "Abiade/Property 1=W.svg",
+    "X": "Abiade/Property 1=X.svg",
+    "Y": "Abiade/Property 1=Y.svg",
+    "Z": "Abiade/Property 1=Z.svg"
+  },
+  "metrics": {
+    "F": {
+      "leftSideBearing": 45,
+      "rightSideBearing": -25
+    },
+    "I": {
+      "leftSideBearing": 45,
+      "rightSideBearing": 45
+    }
+  },
+  "aliases": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E",
+    "f": "F",
+    "g": "G",
+    "h": "H",
+    "i": "I",
+    "j": "J",
+    "k": "K",
+    "l": "L",
+    "m": "M",
+    "n": "N",
+    "o": "O",
+    "p": "P",
+    "q": "Q",
+    "r": "R",
+    "s": "S",
+    "t": "T",
+    "u": "U",
+    "v": "V",
+    "w": "W",
+    "x": "X",
+    "y": "Y",
+    "z": "Z"
+  }
+}
