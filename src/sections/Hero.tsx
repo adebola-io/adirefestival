@@ -11,14 +11,14 @@ export function Hero() {
       </div>
       <div className="container hero-grid">
         <div className="hero-panel scroll-reveal">
-          <p className="eyebrow">THEME · THE SOURCE WITHIN (OMI) · DECEMBER 26</p>
-          <h1 id="hero-title">ABIÁDÉ ADIRE FESTIVAL 2026</h1>
+          <p className="eyebrow">THEME · THE SOURCE WITHIN (OMI) · NOVEMBER 15</p>
+          <h1 id="hero-title">ABÍÁDÉ ADIRE FESTIVAL 2026</h1>
           <p className="hero-intro">Join us for a celebration of Yoruba culture, craft, and community.</p>
           <div className="hero-actions" aria-label="Primary actions">
-            <a className="button button--light" href="#patterns" title="Explore the Abiade Adire Festival program">
+            <a className="button button--light" href="#patterns" title="Explore the Abíádé Adire Festival program">
               Experience the Magic
             </a>
-            <a className="button button--outline" href="#orders" title="View Abiade Adire Festival tickets">
+            <a className="button button--outline" href="#orders" title="View Abíádé Adire Festival tickets">
               Buy Tickets
             </a>
           </div>

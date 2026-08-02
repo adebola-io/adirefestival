@@ -11,8 +11,8 @@ export function Header({ isScrolled }: HeaderProps) {
   return (
     <header className={headerClassName}>
       <div className="container header-grid">
-        <a className="brand-mark" href="#top" title="Abiade home" aria-label="Abiade home">
-          <img src={assets.logo} alt="Abiade" width="302" height="84" />
+        <a className="brand-mark" href="#top" title="Abíádé home" aria-label="Abíádé home">
+          <img src={assets.logo} alt="Abíádé" width="302" height="84" />
         </a>
 
         <nav className="primary-nav" aria-label="Primary navigation">
@@ -26,10 +26,10 @@ export function Header({ isScrolled }: HeaderProps) {
         </nav>
 
         <div className="header-actions">
-          <a className="text-link" href="https://www.instagram.com/abiadeadire/" target="_blank" rel="noopener noreferrer" title="Open Abiade on Instagram">
+          <a className="text-link" href="https://www.instagram.com/abiadeadire/" target="_blank" rel="noopener noreferrer" title="Open Abíádé on Instagram">
             Instagram
           </a>
-          <a className="button button--light" href="#orders" title="View Abiade Adire Festival tickets">
+          <a className="button button--light" href="#orders" title="View Abíádé Adire Festival tickets">
             Buy Tickets
           </a>
         </div>

@@ -6,7 +6,7 @@ export function Craft() {
       <div className="container craft-heading scroll-reveal">
         <p className="eyebrow">THE EXPERIENCE</p>
         <h2 id="craft-title">WHAT AWAITS YOU</h2>
-        <p>Three headline experiences bring the festival to life through fashion, performance, and competitive craft.</p>
+        <p>Three headline experiences bring the festival to life through fashion, performance, and Symposium.</p>
       </div>
 
       <ol className="container craft-feature-grid" aria-label="Three main Abiade Adire Festival events">

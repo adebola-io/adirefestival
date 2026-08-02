@@ -1,11 +1,11 @@
-import { Drum, Droplets, Scissors, Shirt, Trophy, Waves } from "lucide-react";
+import { Drum, Droplets, Scissors, Shirt, Mic as Microphone, Waves } from "lucide-react";
 import { assets } from "./assets";
 import type { CraftItem, HeroSlideItem, LookbookItem, NavItem, OrderItem, PatternItem, ProfessionalImageItem } from "./types";
 
 export const links = {
   shopify: "https://abiade-adire.myshopify.com",
   festivalForm: "https://forms.gle/qWiT83pu4PL88bsu5",
-  academyForm: "https://forms.gle/39KDPygaorZko2zi6"
+  academyForm: "https://forms.gle/VU89eCKCrFtW3weZ7"
 } as const;
 
 export const navItems = [
@@ -199,7 +199,7 @@ export const patternItems = [
 export const craftItems = [
   {
     term: "Adire Fashion Show",
-    description: "Contemporary and traditional Adire styles take the runway in a bold celebration of textile, movement, and identity.",
+    description: "A vibrant showcase of culture and creativity, where timeless Adire patterns meet modern style, inviting audiences to experience vibrant designs, cultural storytelling, and modern runway artistry inspired by Adire.",
     Icon: Shirt
   },
   {
@@ -208,9 +208,9 @@ export const craftItems = [
     Icon: Drum
   },
   {
-    term: "Craft Competitions",
-    description: "Makers and performers compete across Adire craft, dance, and cultural expression with skill and originality.",
-    Icon: Trophy
+    term: "Symposium",
+    description: "The Symposium is a platform for dialogue, discovery, and collaboration around Nigeria’s iconic hand‑dyed textile tradition. Scholars, artisans, and designers gather to explore Adire’s cultural heritage, modern applications, and its role in empowering communities and shaping global fashion narratives.",
+    Icon: Microphone
   }
 ] satisfies readonly CraftItem[];
 

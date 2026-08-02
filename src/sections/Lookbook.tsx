@@ -17,7 +17,7 @@ export function Lookbook({ onPreview }: LookbookProps) {
         </p>
       </div>
 
-      <ul className="container lookbook-grid" aria-label="Abiade lookbook images">
+      <ul className="container lookbook-grid" aria-label="Abíádé lookbook images">
         {lookbookItems.map(function renderLookbookItem(item) {
           function handlePreviewClick(event: MouseEvent<HTMLButtonElement>) {
             onPreview(item, event);

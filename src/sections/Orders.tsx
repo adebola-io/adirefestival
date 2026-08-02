@@ -6,16 +6,16 @@ export function Orders() {
       <div className="container section-heading section-heading--split scroll-reveal">
         <div>
           <p className="eyebrow">
-            TICKETS · <time dateTime="2026-12-26">DECEMBER 26</time>
+            TICKETS · <time dateTime="2026-11-15">DECEMBER 26</time>
           </p>
           <h2 id="orders-title">CHOOSE YOUR TICKET</h2>
         </div>
         <p>
-          Select a ticket category for the <time dateTime="2026-12-26">December 26</time> festival. Each ticket opens its secure Paystack purchase page.
+          Select a ticket category for the <time dateTime="2026-11-15">November 26</time> festival. Each ticket opens its secure Paystack purchase page.
         </p>
       </div>
 
-      <ol className="container order-grid scroll-reveal" aria-label="Abiade Adire Festival ticket categories">
+      <ol className="container order-grid scroll-reveal" aria-label="Abíádé Adire Festival ticket categories">
         {orderItems.map(function renderOrderItem(item) {
           return (
             <li className="ticket-card" key={item.step}>
