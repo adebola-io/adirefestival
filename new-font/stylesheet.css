@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Montecatini Pro Largo';
+    src: local('Montecatini Pro Largo Medium'), local('MontecatiniPro-LargoMedium'),
+        url('MontecatiniPro-LargoMedium.woff2') format('woff2'),
+        url('MontecatiniPro-LargoMedium.woff') format('woff'),
+        url('MontecatiniPro-LargoMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Ampio';
+    src: local('Montecatini Pro Ampio Bold'), local('MontecatiniPro-AmpioBold'),
+        url('MontecatiniPro-AmpioBold.woff2') format('woff2'),
+        url('MontecatiniPro-AmpioBold.woff') format('woff'),
+        url('MontecatiniPro-AmpioBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Ampio Ultra';
+    src: local('Montecatini Pro Ampio Ultra'), local('MontecatiniPro-AmpioUltra'),
+        url('MontecatiniPro-AmpioUltra.woff2') format('woff2'),
+        url('MontecatiniPro-AmpioUltra.woff') format('woff'),
+        url('MontecatiniPro-AmpioUltra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Ampio';
+    src: local('Montecatini Pro Ampio'), local('MontecatiniPro-Ampio'),
+        url('MontecatiniPro-Ampio.woff2') format('woff2'),
+        url('MontecatiniPro-Ampio.woff') format('woff'),
+        url('MontecatiniPro-Ampio.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Stretto Ultra';
+    src: local('Montecatini Pro Stretto Ultra'), local('MontecatiniPro-StrettoUltra'),
+        url('MontecatiniPro-StrettoUltra.woff2') format('woff2'),
+        url('MontecatiniPro-StrettoUltra.woff') format('woff'),
+        url('MontecatiniPro-StrettoUltra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Largo';
+    src: local('Montecatini Pro Largo Light'), local('MontecatiniPro-LargoLight'),
+        url('MontecatiniPro-LargoLight.woff2') format('woff2'),
+        url('MontecatiniPro-LargoLight.woff') format('woff'),
+        url('MontecatiniPro-LargoLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Stretto';
+    src: local('Montecatini Pro Stretto Light'), local('MontecatiniPro-StrettoLight'),
+        url('MontecatiniPro-StrettoLight.woff2') format('woff2'),
+        url('MontecatiniPro-StrettoLight.woff') format('woff'),
+        url('MontecatiniPro-StrettoLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Normale';
+    src: local('Montecatini Pro Normale Medium'), local('MontecatiniPro-NormaleMedium'),
+        url('MontecatiniPro-NormaleMedium.woff2') format('woff2'),
+        url('MontecatiniPro-NormaleMedium.woff') format('woff'),
+        url('MontecatiniPro-NormaleMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Ampio';
+    src: local('Montecatini Pro Ampio Medium'), local('MontecatiniPro-AmpioMedium'),
+        url('MontecatiniPro-AmpioMedium.woff2') format('woff2'),
+        url('MontecatiniPro-AmpioMedium.woff') format('woff'),
+        url('MontecatiniPro-AmpioMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Largo Ultra';
+    src: local('Montecatini Pro Largo Ultra'), local('MontecatiniPro-LargoUltra'),
+        url('MontecatiniPro-LargoUltra.woff2') format('woff2'),
+        url('MontecatiniPro-LargoUltra.woff') format('woff'),
+        url('MontecatiniPro-LargoUltra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Ampio';
+    src: local('Montecatini Pro Ampio Light'), local('MontecatiniPro-AmpioLight'),
+        url('MontecatiniPro-AmpioLight.woff2') format('woff2'),
+        url('MontecatiniPro-AmpioLight.woff') format('woff'),
+        url('MontecatiniPro-AmpioLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Stretto';
+    src: local('Montecatini Pro Stretto'), local('MontecatiniPro-Stretto'),
+        url('MontecatiniPro-Stretto.woff2') format('woff2'),
+        url('MontecatiniPro-Stretto.woff') format('woff'),
+        url('MontecatiniPro-Stretto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Normale SemiBd';
+    src: local('Montecatini Pro Normale SemiBold'), local('MontecatiniPro-NormaleSemiBold'),
+        url('MontecatiniPro-NormaleSemiBold.woff2') format('woff2'),
+        url('MontecatiniPro-NormaleSemiBold.woff') format('woff'),
+        url('MontecatiniPro-NormaleSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Largo';
+    src: local('Montecatini Pro Largo Bold'), local('MontecatiniPro-LargoBold'),
+        url('MontecatiniPro-LargoBold.woff2') format('woff2'),
+        url('MontecatiniPro-LargoBold.woff') format('woff'),
+        url('MontecatiniPro-LargoBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Stretto';
+    src: local('Montecatini Pro Stretto Bold'), local('MontecatiniPro-StrettoBold'),
+        url('MontecatiniPro-StrettoBold.woff2') format('woff2'),
+        url('MontecatiniPro-StrettoBold.woff') format('woff'),
+        url('MontecatiniPro-StrettoBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Stretto';
+    src: local('Montecatini Pro Stretto Medium'), local('MontecatiniPro-StrettoMedium'),
+        url('MontecatiniPro-StrettoMedium.woff2') format('woff2'),
+        url('MontecatiniPro-StrettoMedium.woff') format('woff'),
+        url('MontecatiniPro-StrettoMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Largo';
+    src: local('Montecatini Pro Largo SemiBold'), local('MontecatiniPro-LargoSemiBold'),
+        url('MontecatiniPro-LargoSemiBold.woff2') format('woff2'),
+        url('MontecatiniPro-LargoSemiBold.woff') format('woff'),
+        url('MontecatiniPro-LargoSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Normale';
+    src: local('Montecatini Pro Normale'), local('MontecatiniPro-Normale'),
+        url('MontecatiniPro-Normale.woff2') format('woff2'),
+        url('MontecatiniPro-Normale.woff') format('woff'),
+        url('MontecatiniPro-Normale.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Largo';
+    src: local('Montecatini Pro Largo'), local('MontecatiniPro-Largo'),
+        url('MontecatiniPro-Largo.woff2') format('woff2'),
+        url('MontecatiniPro-Largo.woff') format('woff'),
+        url('MontecatiniPro-Largo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Normale';
+    src: local('Montecatini Pro Normale Light'), local('MontecatiniPro-NormaleLight'),
+        url('MontecatiniPro-NormaleLight.woff2') format('woff2'),
+        url('MontecatiniPro-NormaleLight.woff') format('woff'),
+        url('MontecatiniPro-NormaleLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Normale Ultra';
+    src: local('Montecatini Pro Normale Ultra'), local('MontecatiniPro-NormaleUltra'),
+        url('MontecatiniPro-NormaleUltra.woff2') format('woff2'),
+        url('MontecatiniPro-NormaleUltra.woff') format('woff'),
+        url('MontecatiniPro-NormaleUltra.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Stretto SemiBd';
+    src: local('Montecatini Pro Stretto SemiBold'), local('MontecatiniPro-StrettoSemiBold'),
+        url('MontecatiniPro-StrettoSemiBold.woff2') format('woff2'),
+        url('MontecatiniPro-StrettoSemiBold.woff') format('woff'),
+        url('MontecatiniPro-StrettoSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Ampio';
+    src: local('Montecatini Pro Ampio Semibold'), local('MontecatiniPro-AmpioSemibold'),
+        url('MontecatiniPro-AmpioSemibold.woff2') format('woff2'),
+        url('MontecatiniPro-AmpioSemibold.woff') format('woff'),
+        url('MontecatiniPro-AmpioSemibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montecatini Pro Normale';
+    src: local('Montecatini Pro Normale Bold'), local('MontecatiniPro-NormaleBold'),
+        url('MontecatiniPro-NormaleBold.woff2') format('woff2'),
+        url('MontecatiniPro-NormaleBold.woff') format('woff'),
+        url('MontecatiniPro-NormaleBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
