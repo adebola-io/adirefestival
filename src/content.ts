@@ -1,4 +1,4 @@
-import { Drum, Droplets, Scissors, Shirt, Mic as Microphone, Waves } from "lucide-react";
+import { Drum, Droplets, Scissors, Shirt, Trophy, Waves } from "lucide-react";
 import { assets } from "./assets";
 import type { CraftItem, HeroSlideItem, LookbookItem, NavItem, OrderItem, PatternItem, ProfessionalImageItem } from "./types";
 
@@ -178,7 +178,7 @@ export const lookbookItems = [
 export const patternItems = [
   {
     id: "colour",
-    title: "Adire Runway Show",
+    title: "Adire Fahion Show",
     description: "Fashion on tradition: styled Adire pieces, movement, texture, and ceremony presented with a contemporary eye.",
     Icon: Droplets
   },
@@ -192,7 +192,7 @@ export const patternItems = [
     id: "cut",
     title: "Knowledge Sessions",
     description: "Conversations on Yoruba heritage, Adire process, creative enterprise, and the makers preserving the craft.",
-    Icon: Scissors
+    Icon: Microphone
   }
 ] satisfies readonly PatternItem[];
 
