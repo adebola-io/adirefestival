@@ -178,7 +178,7 @@ export const lookbookItems = [
 export const patternItems = [
   {
     id: "colour",
-    title: "Adire Fahion Show",
+    title: "Adire Fashion Show",
     description: "Fashion on tradition: styled Adire pieces, movement, texture, and ceremony presented with a contemporary eye.",
     Icon: Droplets
   },
