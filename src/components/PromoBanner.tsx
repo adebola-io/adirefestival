@@ -2,7 +2,7 @@ export function PromoBanner() {
   return (
     <aside className="promo-banner" aria-label="Abíádé Adire Festival announcement">
       <div className="container promo-banner__grid">
-        <time className="promo-banner__date" dateTime="2026-12-26" aria-label="December 26, 2026">
+        <time className="promo-banner__date" dateTime="2026-11-15" aria-label="November 15, 2026">
           <span>NOV</span>
           <strong>15</strong>
         </time>
