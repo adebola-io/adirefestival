@@ -1,4 +1,4 @@
-import { Drum, Droplets, Microphone, Shirt, Waves } from "lucide-react";
+import { Drum, Droplets, Mic, Shirt, Waves } from "lucide-react";
 import { assets } from "./assets";
 import type { CraftItem, HeroSlideItem, LookbookItem, NavItem, OrderItem, PatternItem, ProfessionalImageItem } from "./types";
 
@@ -192,7 +192,7 @@ export const patternItems = [
     id: "cut",
     title: "Knowledge Sessions",
     description: "Conversations on Yoruba heritage, Adire process, creative enterprise, and the makers preserving the craft.",
-    Icon: Microphone
+    Icon: Mic
   }
 ] satisfies readonly PatternItem[];
 
@@ -210,7 +210,7 @@ export const craftItems = [
   {
     term: "Symposium",
     description: "The Symposium is a platform for dialogue, discovery, and collaboration around Nigeria’s iconic hand‑dyed textile tradition. Scholars, artisans, and designers gather to explore Adire’s cultural heritage, modern applications, and its role in empowering communities and shaping global fashion narratives.",
-    Icon: Microphone
+    Icon: Mic
   }
 ] satisfies readonly CraftItem[];
 
