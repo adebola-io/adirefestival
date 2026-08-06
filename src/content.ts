@@ -1,4 +1,4 @@
-import { Drum, Droplets, Scissors, Shirt, Trophy, Waves } from "lucide-react";
+import { Drum, Droplets, Microphone, Shirt, Waves } from "lucide-react";
 import { assets } from "./assets";
 import type { CraftItem, HeroSlideItem, LookbookItem, NavItem, OrderItem, PatternItem, ProfessionalImageItem } from "./types";
 
